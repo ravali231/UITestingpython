@@ -1,0 +1,30 @@
+1620307571665	geckodriver	INFO	Listening on 127.0.0.1:52677
+1620307571668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekMr5qo"
+1620307573164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307578462	Marionette	INFO	Listening on port 33559
+1620307578503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307591314	Marionette	INFO	Stopped listening on port 33559
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307622061	geckodriver	INFO	Listening on 127.0.0.1:51765
+1620307622063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef5QZ1c"
+1620307623468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307628511	Marionette	INFO	Listening on port 41951
+1620307628595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307643561	Marionette	INFO	Stopped listening on port 41951
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620307780215	geckodriver	INFO	Listening on 127.0.0.1:33321
+1620307780217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKFsrN"
+1620307782013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620307787113	Marionette	INFO	Listening on port 35215
+1620307787151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620307795895	Marionette	INFO	Stopped listening on port 35215
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
